@@ -1,2 +1,4 @@
 # LLM_CAPS
-202032003 Kyung Min GIl FineTurning For LLM
+202032003 Kyung Min Gil FineTurning For LLM
+
+FINE_TURNING
